@@ -9,7 +9,7 @@
 Some stuff about me:
 
 * 💜 In eternal love with AI.
-* ⏲️ Dividing the time with Sklearn, Tensorflow and other libraries.
+* ⏲️ Dividing my time with Sklearn, Tensorflow and other libraries.
 * ⚡ In constant learning.
 * 🌍 Languages lover.
 
