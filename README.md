@@ -1,26 +1,15 @@
 # Hi Everyone! 👨🏽‍💻
 
----
-
 <a href="https://github.com/lejoaoconte" target="_blank"><img width="30px" src="https://lejoaoconte.github.io/imagens/github.png"></a>
 <a href="https://linkedin.com/in/lejoaoconte" target="_blank"><img width="30px" src="https://lejoaoconte.github.io/imagens/linkedin.png"></a>
 <a href="https://instagram.com/lejoaoconte" target="_blank"><img width="30px" src="https://lejoaoconte.github.io/imagens/instagram.png"></a>
 <a href="https://medium.com/@lejoaoconte" target="_blank"><img style="margin-top: 3px; margin-left: 3px;" width="27px" src="https://lejoaoconte.github.io/imagens/medium.png"></a>
 
----
-aa
+My name is João, I'm data scientist!
 
-<!--
-**lejoaoconte/lejoaoconte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 💜 In eternal love with AI.
+* ⏲️ Dividing the time with Sklearn, Tensorflow and other libraries.
+* ⚡ In constant learning.
+* 🌍 Languages lover.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Below are my projects, it was good to see you.
