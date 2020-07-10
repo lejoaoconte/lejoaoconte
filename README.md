@@ -1,4 +1,4 @@
-# Hi Everyone! 👨🏽‍💻
+# 👨🏽‍💻 Hi Everyone! 
 
 <a href="https://github.com/lejoaoconte" target="_blank"><img width="30px" src="https://lejoaoconte.github.io/imagens/github.png"></a>
 <a href="https://linkedin.com/in/lejoaoconte" target="_blank"><img width="30px" src="https://lejoaoconte.github.io/imagens/linkedin.png"></a>
