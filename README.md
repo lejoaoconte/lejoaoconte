@@ -14,7 +14,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=lejoaoconte&show_icons=true">
 
-## My name is João, I'm data scientist!
+### My name is João, I'm data scientist!
 Some stuff about me:
 
 * 💜 In eternal love with AI.
@@ -24,7 +24,7 @@ Some stuff about me:
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 ![Python](http://img.shields.io/badge/-Python-orange?style=for-the-badge&logo=python&logoColor=ffffff)
 ![R](http://img.shields.io/badge/-R-blue?style=for-the-badge&logo=r&logoColor=ffffff)
@@ -55,4 +55,4 @@ Some stuff about me:
 
 --- 
 
-Below are my projects, it was good to see you.
+### Below are my projects, it was good to see you.
