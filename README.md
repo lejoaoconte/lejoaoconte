@@ -27,7 +27,7 @@ Some stuff about me:
 ![Python](http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Tensorflow](http://img.shields.io/badge/-Tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=ffffff)
 ![Keras](http://img.shields.io/badge/-KEras-red?style=for-the-badge&logo=KEras&logoColor=ffffff)
-![Scikit-learn](http://img.shields.io/badge/-sklearn-yellow?style=for-the-badge&logo=scikit-learn&logoColor=ffffff)
+![Scikit-learn](http://img.shields.io/badge/-learn-orange?style=for-the-badge&&&label=SK&labelColor=blue)
 ![Docker](http://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![MySQL](http://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![PostgreSQL](http://img.shields.io/badge/-postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=ffffff)
