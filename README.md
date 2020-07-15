@@ -58,3 +58,10 @@ Some stuff about me:
 --- 
 
 ## Below are my projects, it was good to see you. ✌🏽
+
+<!-- <a href="https://github.com/lejoaoconte/Monkeys-Species-Classifier">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lejoaoconte&repo=Monkeys-Species-Classifier" />
+</a>
+<a href="https://github.com/lejoaoconte/Recomendador-de-Paper">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lejoaoconte&repo=Recomendador-de-Paper" />
+</a> -->
