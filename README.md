@@ -7,8 +7,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-@lejoaoconte-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/lejoaoconte)](https://instagram.com/lejoaoconte)
 [![Medium Badge](https://img.shields.io/badge/-@lejoaoconte-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@lejoaoconte/)](https://medium.com/@lejoaoconte/)
 
-<p align=center><img src="https://raw.githubusercontent.com/lejoaoconte/lejoaoconte/master/imgs/hello.gif" width="250px" />
+---
+
+<p align=center>
+  <img src="https://raw.githubusercontent.com/lejoaoconte/lejoaoconte/master/imgs/hello.gif" width="250px" />
 </p>
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=lejoaoconte&show_icons=true">
 
 ### My name is João, I'm data scientist!
 Some stuff about me:
@@ -17,5 +22,7 @@ Some stuff about me:
 * ⏲️ Dividing my time with Sklearn, Tensorflow and other libraries.
 * ⚡ In constant learning.
 * 🌍 Languages lover.
+
+--- 
 
 Below are my projects, it was good to see you.
