@@ -57,4 +57,4 @@ Some stuff about me:
 
 --- 
 
-### Below are my projects, it was good to see you.
+## Below are my projects, it was good to see you. ✌🏽
