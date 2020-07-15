@@ -7,10 +7,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-@lejoaoconte-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/lejoaoconte)](https://instagram.com/lejoaoconte)
 [![Medium Badge](https://img.shields.io/badge/-@lejoaoconte-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@lejoaoconte/)](https://medium.com/@lejoaoconte/)
 
-
-![Hello](https://raw.githubusercontent.com/lejoaoconte/lejoaoconte/master/imgs/hello.gif)
-
-
+<p align=center><img src="https://raw.githubusercontent.com/lejoaoconte/lejoaoconte/master/imgs/hello.gif" width="250px" />
+</p>
 
 ### My name is João, I'm data scientist!
 Some stuff about me:
