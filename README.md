@@ -24,7 +24,7 @@ Some stuff about me:
 
 ---
 
-<img align='right' width="300px" src="https://github.com/lejoaoconte/lejoaoconte/blob/master/imgs/tech.jpg?raw=true">
+<img align='right' width="300px" src="https://github.com/lejoaoconte/lejoaoconte/blob/master/imgs/teche.jpg?raw=true">
 
 ### Tech Stack
 
