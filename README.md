@@ -1,10 +1,10 @@
 # 👨🏽‍💻 Hi Everyone! 
 
-<a href="https://github.com/lejoaoconte" target="_blank"><img width="30px" src="https://github.com/lejoaoconte/lejoaoconte/blob/master/imgs/github.png"></a>
-<a href="https://linkedin.com/in/lejoaoconte" target="_blank"><img width="30px" src="https://github.com/lejoaoconte/lejoaoconte/blob/master/imgs/in.png"></a>
-<a href="https://instagram.com/lejoaoconte" target="_blank"><img width="30px" src="https://github.com/lejoaoconte/lejoaoconte/blob/master/imgs/ig.png"></a>
-<a href="https://medium.com/@lejoaoconte" target="_blank"><img width="30px" src="https://github.com/lejoaoconte/lejoaoconte/blob/master/imgs/medium.png"></a>
-<a href="malito:lejoaoconte@gmail.com" target="_blank"><img width="30px" src="https://github.com/lejoaoconte/lejoaoconte/blob/master/imgs/gmail.png"></a>
+[![Github Badge](https://img.shields.io/badge/-lejoaoconte-inactive?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lejoaoconte/)](https://github.com/lejoaoconte/)
+[![LinkedIn Badge](https://img.shields.io/badge/-lejoaoconte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lejoaoconte/)](https://www.linkedin.com/in/lejoaoconte/)
+[![Gmail Badge](https://img.shields.io/badge/-lejoaoconte@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lejoaoconte@gmail.com)](mailto:lejoaoconte@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@lejoaoconte-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/lejoaoconte)](https://instagram.com/lejoaoconte)
+[![Medium Badge](https://img.shields.io/badge/-@lejoaoconte-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@lejoaoconte/)](https://medium.com/@lejoaoconte/)
 
 ### My name is João, I'm data scientist!
 Some stuff about me:
