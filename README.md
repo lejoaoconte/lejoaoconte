@@ -24,6 +24,8 @@ Some stuff about me:
 
 ---
 
+<img align='right' width="300px" src="https://github.com/lejoaoconte/lejoaoconte/blob/master/imgs/tech.jpg?raw=true">
+
 ### Tech Stack
 
 ![Python](http://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=ffffff)
