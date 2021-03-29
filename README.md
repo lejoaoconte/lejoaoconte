@@ -28,20 +28,25 @@ Some stuff about me:
 
 ### Tech Stack
 
-![Python](http://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=ffffff)
+![Javascript](https://img.shields.io/badge/-Javascrpit-yellow?style=flat-square&logo=javascript&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-yellowgreen?style=flat-square&logo=python&logoColor=ffffff)
 ![R](http://img.shields.io/badge/-R-blue?style=flat-square&logo=r&logoColor=ffffff)
 ![Scala](http://img.shields.io/badge/-Scala-red?style=flat-square&logo=scala&logoColor=ffffff)
 ![PHP](http://img.shields.io/badge/-PHP-blue?style=flat-square&logo=PHP&logoColor=ffffff)
 
+![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=bootstrap&logoColor=563D7C)\
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=django&logoColor=092E20)
 ![Tensorflow](http://img.shields.io/badge/-Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=ffffff)
-![Keras](http://img.shields.io/badge/-Keras-red?style=flat-square&logo=Keras&logoColor=ffffff)
 ![Scikit-learn](http://img.shields.io/badge/-Learn-orange?style=flat-square&&&label=SK&labelColor=blue)
-![Pytorch](http://img.shields.io/badge/-Pytorch-red?style=flat-square&logo=pytorch&logoColor=ffffff)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 ![Docker](http://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=ffffff)
 ![MySQL](http://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=ffffff)
 ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 
 ![Heroku](http://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=ffffff)
 ![Google Cloud](http://img.shields.io/badge/-Google%20Cloud-blue?style=flat-square&logo=google-cloud&logoColor=ffffff)
@@ -50,6 +55,8 @@ Some stuff about me:
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-purple?style=flat-square&logo=Ubuntu&logoColor=ffffff)
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
