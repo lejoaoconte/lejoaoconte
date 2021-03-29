@@ -36,7 +36,7 @@ Some stuff about me:
 
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=bootstrap&logoColor=563D7C)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=django&logoColor=092E20)
 ![Tensorflow](http://img.shields.io/badge/-Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=ffffff)
 ![Scikit-learn](http://img.shields.io/badge/-Learn-orange?style=flat-square&&&label=SK&labelColor=blue)
