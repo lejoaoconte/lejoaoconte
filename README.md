@@ -14,11 +14,11 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=lejoaoconte&show_icons=true">
 
-### My name is João, I'm data scientist!
+### My name is João, I'm a back-end developer and in my spare time data scientist.
 Some stuff about me:
 
 * 💜 In eternal love with AI.
-* ⏲️ Dividing my time with Sklearn, Tensorflow and other libraries.
+* ⏲️ Sharing my time with my favorites technologies.
 * ⚡ In constant learning.
 * 🌍 Languages lover.
 
