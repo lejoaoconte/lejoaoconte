@@ -30,17 +30,11 @@ Some stuff about me:
 
 ![Javascript](https://img.shields.io/badge/-Javascrpit-yellow?style=flat-square&logo=javascript&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-yellowgreen?style=flat-square&logo=python&logoColor=ffffff)
-![R](http://img.shields.io/badge/-R-blue?style=flat-square&logo=r&logoColor=ffffff)
-![Scala](http://img.shields.io/badge/-Scala-red?style=flat-square&logo=scala&logoColor=ffffff)
 ![PHP](http://img.shields.io/badge/-PHP-blue?style=flat-square&logo=PHP&logoColor=ffffff)
 
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=bootstrap&logoColor=563D7C)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=django&logoColor=092E20)
-![Tensorflow](http://img.shields.io/badge/-Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=ffffff)
-![Scikit-learn](http://img.shields.io/badge/-Learn-orange?style=flat-square&&&label=SK&labelColor=blue)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 ![Docker](http://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=ffffff)
 ![MySQL](http://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=ffffff)
