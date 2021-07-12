@@ -14,7 +14,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=lejoaoconte&show_icons=true">
 
-### My name is João, I'm a back-end developer and in my spare time data scientist.
+### My name is João, I'm a back-end developer.
 Some stuff about me:
 
 * 💜 In eternal love with AI.
@@ -59,10 +59,3 @@ Some stuff about me:
 --- 
 
 ## Below are my projects, it was good to see you.
-
-<!-- <a href="https://github.com/lejoaoconte/Monkeys-Species-Classifier">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lejoaoconte&repo=Monkeys-Species-Classifier" />
-</a>
-<a href="https://github.com/lejoaoconte/Recomendador-de-Paper">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lejoaoconte&repo=Recomendador-de-Paper" />
-</a> -->
