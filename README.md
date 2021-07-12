@@ -17,7 +17,7 @@
 ### My name is João, I'm a back-end developer.
 Some stuff about me:
 
-* 💜 In eternal love with AI.
+* 💜 In eternal love with DEV.
 * ⏲️ Sharing my time with my favorites technologies.
 * ⚡ In constant learning.
 * 🌍 Languages lover.
