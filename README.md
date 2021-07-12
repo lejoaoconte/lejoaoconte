@@ -14,7 +14,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=lejoaoconte&show_icons=true">
 
-### My name is João, I'm a back-end developer.
+### My name is João, I'm a back-end developer who flirting with front-end.
 Some stuff about me:
 
 * 💜 In eternal love with DEV.
