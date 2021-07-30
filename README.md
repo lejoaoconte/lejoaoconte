@@ -35,6 +35,8 @@ Some stuff about me:
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=bootstrap&logoColor=563D7C)
+![Laravel](https://img.shields.io/badge/-Laravel-ffffff?style=flat-square&logo=laravel&logoColor=ff0000)
+![Django](https://img.shields.io/badge/-Django-234f1e?style=flat-square&logo=django&logoColor=ffffff)
 
 ![Docker](http://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=ffffff)
 ![MySQL](http://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=ffffff)
