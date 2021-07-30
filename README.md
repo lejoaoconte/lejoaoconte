@@ -6,14 +6,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-lejoaoconte@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lejoaoconte@gmail.com)](mailto:lejoaoconte@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@lejoaoconte-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/lejoaoconte)](https://instagram.com/lejoaoconte)
 [![Medium Badge](https://img.shields.io/badge/-@lejoaoconte-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@lejoaoconte/)](https://medium.com/@lejoaoconte/)
-<div style="display: inline_block">
+
+<!--<div style="display: inline_block">
   Some stuff about me:
 
   * 💜 In eternal love with DEV.
   * ⏲️ Sharing my time with my favorites technologies.
   * ⚡ In constant learning.
   * 🌍 Languages lover.
-</div>
+</div>-->
 
 ---
 
@@ -22,6 +23,7 @@
 <img src="https://raw.githubusercontent.com/lejoaoconte/lejoaoconte/master/imgs/hello.gif" width="250px" />
 </p>-->
 
+#### Resume in Github
 <div>
   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=lejoaoconte&show_icons=true&layout=compact&theme=dark">
   <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lejoaoconte&layout=compact&langs_count=7&theme=dark">
@@ -29,9 +31,9 @@
 
 ---
 
-<img align='right' width="300px" src="https://github.com/lejoaoconte/lejoaoconte/blob/master/imgs/teche.jpg?raw=true">
+<img align='right' width="300px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1627633929543.png">
 
-### Tech Stack
+#### Tech Stack
 
 ![Javascript](https://img.shields.io/badge/-Javascrpit-yellow?style=flat-square&logo=javascript&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-yellowgreen?style=flat-square&logo=python&logoColor=ffffff)
@@ -65,4 +67,4 @@
 
 --- 
 
-## Below are my projects, it was good to see you.
+<!-- ## Below are my projects, it was good to see you. -->
