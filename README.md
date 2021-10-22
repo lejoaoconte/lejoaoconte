@@ -1,5 +1,5 @@
 # 👨🏽‍💻 Hello Everyone! 
-### My name is João, I'm a back-end developer who flirting with front-end.
+### My name is João, I'm a front-end developer who flirting with back-end.
 
 [![Github Badge](https://img.shields.io/badge/-lejoaoconte-inactive?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lejoaoconte/)](https://github.com/lejoaoconte/)
 [![LinkedIn Badge](https://img.shields.io/badge/-lejoaoconte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lejoaoconte/)](https://www.linkedin.com/in/lejoaoconte/)
