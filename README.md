@@ -33,25 +33,21 @@
 <img align='right' width="300px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1627633929543.png">
 
 #### Tech Stack
-
+![HTML5](https://img.shields.io/badge/-HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-0074be?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![Javascript](https://img.shields.io/badge/-Javascrpit-f7df1e?style=for-the-badge&logo=javascript&logoColor=000000)
 ![Typescript](https://img.shields.io/badge/-Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=for-the-badge&logo=react)
+![React.js](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next-333333?style=for-the-badge&logo=next.js)
+![Jest](https://img.shields.io/badge/-Jest-00a400?style=for-the-badge&logo=jest&logoColor=ffffff)
 ![Docker](http://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![MySQL](http://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=ffffff)
-![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=ffffff)
-![MongoDB](http://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000bf?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Heroku](http://img.shields.io/badge/-Heroku-purple?style=for-the-badge&logo=heroku&logoColor=ffffff)
 ![Google Cloud](http://img.shields.io/badge/-Google%20Cloud-blue?style=for-the-badge&logo=google-cloud&logoColor=ffffff)
 ![Amazon AWS](http://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Jest](https://img.shields.io/badge/-Jest-00a400?style=for-the-badge&logo=jest&logoColor=ffffff)
 
 
 <!-- ## Below are my projects, it was good to see you. -->
