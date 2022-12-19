@@ -51,6 +51,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Jest](https://img.shields.io/badge/-Jest-00a400?style=for-the-badge&logo=jest&logoColor=ffffff)
 
 
 <!-- ## Below are my projects, it was good to see you. -->
